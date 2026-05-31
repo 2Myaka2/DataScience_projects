@@ -1,9 +1,14 @@
 numpy==1.26.4
 pandas==2.2.3
 scipy==1.13.1
+
 scikit-learn==1.6.1
+imbalanced-learn==0.13.0
+mlxtend==0.23.4
+
 matplotlib==3.10.8
 seaborn==0.13.2
+
 joblib==1.5.3
 ipykernel==6.29.5
 optuna==4.4.0
